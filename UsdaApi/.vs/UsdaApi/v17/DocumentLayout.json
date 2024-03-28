@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\news\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\news\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\news\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\news\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\news\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\news\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 229,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Program.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Program.cs",
+              "RelativeToolTip": "UsdaApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:09:45.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsService.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\News\\NewsService.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsService.cs",
+              "RelativeToolTip": "UsdaApi\\News\\NewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:09:26.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\INewsService.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\News\\INewsService.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\INewsService.cs",
+              "RelativeToolTip": "UsdaApi\\News\\INewsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:08:35.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsItem.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsItem.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\News\\NewsItem.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsItem.cs",
+              "RelativeToolTip": "UsdaApi\\News\\NewsItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:07:48.22Z",
+              "EditorCaption": ""
             }
           ]
         }

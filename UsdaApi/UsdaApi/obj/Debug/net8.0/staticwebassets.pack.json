@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UsdaApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UsdaApi.props",
+      "PackagePath": "build\\UsdaApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UsdaApi.props",
+      "PackagePath": "buildMultiTargeting\\UsdaApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UsdaApi.props",
+      "PackagePath": "buildTransitive\\UsdaApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

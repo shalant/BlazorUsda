@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UsdaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5769edc4aa3cb8e47ae6776b54b648523244b3aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("UsdaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UsdaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
