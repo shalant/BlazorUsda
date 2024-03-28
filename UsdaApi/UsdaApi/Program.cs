@@ -1,5 +1,6 @@
 using MudBlazor.Services;
 using UsdaApi.Components;
+using UsdaApi.News;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,7 @@ builder.Services.AddRazorComponents()
 builder.Services.AddMudServices();
 
 builder.Services.AddHttpClient();
+builder.Services.AddScoped<INewsService, NewsService>();
 
 var app = builder.Build();
 
