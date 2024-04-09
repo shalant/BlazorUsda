@@ -1,10 +1,57 @@
 ﻿@page "/"
 @using UsdaApi.News
+@using UsdaApi.UsdaInfo
 @inject INewsService NewsService
+@inject IUsdaService UsdaService
+@using System.Text.Json
+@using System.Text.Json.Serialization
+@using System.Net.Http.Json
+@inject IHttpClientFactory ClientFactory
 
 <PageTitle>Crypto News</PageTitle>
 
+@* <h1>Call web API from a Blazor Server Razor component</h1>
 
+@if (getBranchesError || branches is null)
+{
+    <p>Unable to get branches from GitHub. Please try again later.</p>
+}
+else
+{
+    <ul>
+        @foreach (var branch in branches)
+        {
+            <li>@branch.Name</li>
+        }
+    </ul> 
+}*@
+<MudText Typo="Typo.h3" GutterBottom="true">Usda Data</MudText>
+<br />
+<div>
+    @if (UsdaData == null)
+    {
+        <p>Loading UsdaData...</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var item in UsdaData)
+            {
+                <div class="col-4">
+                    <div class="card">
+                        <img src="@item.commodity_desc" />
+                        <div class="card-body">
+                            <h5 class="card-title">@item.statisticcat_desc</h5>
+                            <p class="card-text">@item.year</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+<br />
 <MudText Typo="Typo.h3" GutterBottom="true">Crypto News</MudText>
 <br />
 <div>
@@ -37,7 +84,7 @@
 }
 
 
-<MudText Class="mb-8">
+@* <MudText Class="mb-8">
     
 </MudText>
 
@@ -91,22 +138,82 @@
     <MudLink Href="https://github.com/dotnet/aspnetcore/issues/51468#issue-1950424116" Target="_blank" Typo="Typo.body2" Color="Color.Primary">
         More details
     </MudLink>
-</MudText>
+</MudText> *@
 
 @code {
     public List<NewsItem> News { get; set; }
+    public List<UsdaData> UsdaData { get; set; }
     public string Error { get; set; }
+    private IEnumerable<GitHubBranch>? branches = [];
+    private bool getBranchesError;
+    private bool shouldRender;
+
+    protected override bool ShouldRender() => shouldRender;
 
     protected override async Task OnInitializedAsync()
     {
         try
         {
             News = await NewsService.GetNews();
+            // UsdaData = await UsdaService.GetData();
         }
         catch (Exception e)
         {
 
             Error = e.Message;
         }
+
+        var request = new HttpRequestMessage(HttpMethod.Get, "https://api.github.com/repos/dotnet/AspNetCore.Docs/branches");
+        // var usdaRequest = new HttpRequestMessage(HttpMethod.Get, "https://quickstats.nass.usda.gov/api/api_GET/?key=C2ADF26B-BD8D-328A-968F-2F175A287144&commodity=CORN&year=2020&metric=acres_planted");
+        // var usdaRequest = new HttpRequestMessage(HttpMethod.Get, "https://quickstats.nass.usda.gov/api/api_GET/?key=C2ADF26B-BD8D-328A-968F-2F175A287144&commodity_desc=CORN&statisticcat_desc=AREA%20PLANTED&unit_desc=ACRES&year__GE=2023");
+        request.Headers.Add("Accept", "application/vnd.github.v3+json");
+        request.Headers.Add("User-Agent", "HttpClientFactory-Sample");
+        // usdaRequest.Headers.Add("Accept", "*/*");
+        // usdaRequest.Headers.Add("User-Agent", "HttpClientFactory-Sample");
+
+        var client = ClientFactory.CreateClient();
+        // var usdaClient = ClientFactory.CreateClient();
+
+        var response = await client.SendAsync(request);
+        // var usdaResponse = await usdaClient.SendAsync(usdaRequest);
+
+        if(response.IsSuccessStatusCode)
+        {
+            using var responseStream = await response.Content.ReadAsStreamAsync();
+            branches = await JsonSerializer.DeserializeAsync<IEnumerable<GitHubBranch>>(responseStream);
+        }
+        else
+        {
+            getBranchesError = true;
+        }
+
+        // if (usdaResponse.IsSuccessStatusCode)
+        // {
+        //     var responseStream = await response.Content.ReadAsStreamAsync();
+        //     try
+        //     {
+        //         UsdaData = await JsonSerializer.DeserializeAsync<List<UsdaData>>(responseStream);
+
+        //     }
+        //     catch (Exception ex)
+        //     {
+        //         Error = ex.ToString();
+        //     }
+
+            // using var responseJson = await response.Content.ReadAsJsonAsync();
+            // UsdaData = await JsonSerializer.DeserializeAsync<List<UsdaData>>(responseJson);
+        // }
+        // else
+        // {
+        //     getBranchesError = true;
+        // }
+
+        shouldRender = true;
+    }
+
+    public class GitHubBranch
+    {
+        [JsonPropertyName("name")]
+        public string? Name { get; set; }
     }
 }

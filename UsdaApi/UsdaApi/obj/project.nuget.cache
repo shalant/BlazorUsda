@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YCn7zf6rhU3m+sVlHRf6h6yHMOT5tBpKU87/03Hoe5SpI6LwGSeRDvZaKWwsw89AnJMqDv/QJUhEeNyV9heWxA==",
+  "dgSpecHash": "NKo/rggvBykwoHI3ap3mF2MnuRusO1bcl47knZxdwUwcRcEoTyTao0UoaiAtAk2Q3+K+sHW2tnPcKXHQ+gimtw==",
   "success": true,
   "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaApi.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.jsinterop\\8.0.3\\microsoft.jsinterop.8.0.3.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\mudblazor\\6.19.1\\mudblazor.6.19.1.nupkg.sha512",
+    "C:\\Users\\digdr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []

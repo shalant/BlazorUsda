@@ -1,3 +1,10 @@
+C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.csproj.AssemblyReference.cache
+C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.AssemblyInfoInputs.cache
+C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.AssemblyInfo.cs
+C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.csproj.CoreCompileInputs.cache
+C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.sourcelink.json
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\bin\Debug\net8.0\appsettings.json
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\bin\Debug\net8.0\UsdaApi.staticwebassets.runtime.json
@@ -18,13 +25,6 @@ C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\bin\Debug\net8.0\Micr
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\bin\Debug\net8.0\Microsoft.JSInterop.dll
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\bin\Debug\net8.0\MudBlazor.dll
-C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.csproj.AssemblyReference.cache
-C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.AssemblyInfoInputs.cache
-C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.AssemblyInfo.cs
-C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.csproj.CoreCompileInputs.cache
-C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.sourcelink.json
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\staticwebassets\msbuild.UsdaApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -39,3 +39,4 @@ C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\refi
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.pdb
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\UsdaApi.genruntimeconfig.cache
 C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\obj\Debug\net8.0\ref\UsdaApi.dll
+C:\Users\digdr\Documents\coding\BlazorUsda\UsdaApi\UsdaApi\bin\Debug\net8.0\Newtonsoft.Json.dll

@@ -1,8 +1,11 @@
 using MudBlazor.Services;
 using UsdaApi.Components;
 using UsdaApi.News;
+using UsdaApi.UsdaInfo;
+//using UsdaApiDisplay.Components;
 
 var builder = WebApplication.CreateBuilder(args);
+//var newsApiKey = builder.Configuration["News:ServiceApiKey"];
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
@@ -11,7 +14,9 @@ builder.Services.AddRazorComponents()
 builder.Services.AddMudServices();
 
 builder.Services.AddHttpClient();
+
 builder.Services.AddScoped<INewsService, NewsService>();
+builder.Services.AddScoped<IUsdaService, UsdaService>();
 
 var app = builder.Build();
 

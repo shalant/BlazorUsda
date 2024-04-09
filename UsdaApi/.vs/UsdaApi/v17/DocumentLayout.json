@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\news\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\news\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\components\\pages\\simpleusdainfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\components\\pages\\simpleusdainfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\components\\pages\\usdainfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\components\\pages\\usdainfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\usdainfo\\usdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\usdainfo\\usdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\news\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\news\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\usdainfo\\usdadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\usdainfo\\usdadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\usdainfo\\usdainfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\usdainfo\\usdainfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\usdainfo\\iusdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\usdainfo\\iusdaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\news\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\news\\newsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\news\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\news\\inewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\news\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\news\\newsitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|c:\\users\\digdr\\documents\\coding\\blazorusda\\usdaapi\\usdaapi\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{460DE5AE-8ED1-4328-BFDB-632F656689D8}|UsdaApi\\UsdaApi.csproj|solutionrelative:usdaapi\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,8 +53,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 229,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 271,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,92 +62,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "UsdaApi\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "UsdaApi\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "SimpleUsdaInfo.razor",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\SimpleUsdaInfo.razor",
+              "RelativeDocumentMoniker": "UsdaApi\\Components\\Pages\\SimpleUsdaInfo.razor",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\SimpleUsdaInfo.razor",
+              "RelativeToolTip": "UsdaApi\\Components\\Pages\\SimpleUsdaInfo.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T13:05:59.237Z",
+              "WhenOpened": "2024-03-29T20:56:28.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "UsdaApi\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "UsdaApi\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Title": "UsdaInfo.razor",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\UsdaInfo.razor",
+              "RelativeDocumentMoniker": "UsdaApi\\Components\\Pages\\UsdaInfo.razor",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\UsdaInfo.razor",
+              "RelativeToolTip": "UsdaApi\\Components\\Pages\\UsdaInfo.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T13:00:09.068Z",
+              "WhenOpened": "2024-03-28T21:50:13.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NewsDto.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsDto.cs",
-              "RelativeDocumentMoniker": "UsdaApi\\News\\NewsDto.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsDto.cs",
-              "RelativeToolTip": "UsdaApi\\News\\NewsDto.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAWwCsAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "UsdaService.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaInfo\\UsdaService.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\UsdaInfo\\UsdaService.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaInfo\\UsdaService.cs",
+              "RelativeToolTip": "UsdaApi\\UsdaInfo\\UsdaService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T12:39:53.166Z",
+              "WhenOpened": "2024-03-28T14:18:59.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "UsdaInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaInfo\\UsdaInfoDto.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\UsdaInfo\\UsdaInfoDto.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaInfo\\UsdaInfoDto.cs",
+              "RelativeToolTip": "UsdaApi\\UsdaInfo\\UsdaInfoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:19:10.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsdaService.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaInfo\\IUsdaService.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\UsdaInfo\\IUsdaService.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaInfo\\IUsdaService.cs",
+              "RelativeToolTip": "UsdaApi\\UsdaInfo\\IUsdaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T23:57:49.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsdaData.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaInfo\\UsdaData.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\UsdaInfo\\UsdaData.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\UsdaInfo\\UsdaData.cs",
+              "RelativeToolTip": "UsdaApi\\UsdaInfo\\UsdaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T14:09:01.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "UsdaApi\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "UsdaApi\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T21:51:07.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Program.cs",
               "RelativeDocumentMoniker": "UsdaApi\\Program.cs",
               "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Program.cs",
               "RelativeToolTip": "UsdaApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T03:09:45.07Z",
-              "EditorCaption": ""
-            },
+              "WhenOpened": "2024-03-28T20:58:24.025Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 2,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "NewsService.cs",
               "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsService.cs",
               "RelativeDocumentMoniker": "UsdaApi\\News\\NewsService.cs",
               "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsService.cs",
               "RelativeToolTip": "UsdaApi\\News\\NewsService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAmwA8AAAA9AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwBwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T03:09:26.678Z",
+              "WhenOpened": "2024-03-28T22:38:41.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "INewsService.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\INewsService.cs",
-              "RelativeDocumentMoniker": "UsdaApi\\News\\INewsService.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\INewsService.cs",
-              "RelativeToolTip": "UsdaApi\\News\\INewsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "DocumentIndex": 8,
+              "Title": "NewsDto.cs",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsDto.cs",
+              "RelativeDocumentMoniker": "UsdaApi\\News\\NewsDto.cs",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsDto.cs",
+              "RelativeToolTip": "UsdaApi\\News\\NewsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T03:08:35.058Z"
+              "WhenOpened": "2024-03-29T14:47:40.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NewsItem.cs",
-              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsItem.cs",
-              "RelativeDocumentMoniker": "UsdaApi\\News\\NewsItem.cs",
-              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\News\\NewsItem.cs",
-              "RelativeToolTip": "UsdaApi\\News\\NewsItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T03:07:48.22Z"
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "UsdaApi\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\digdr\\Documents\\coding\\BlazorUsda\\UsdaApi\\UsdaApi\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "UsdaApi\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAANAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T15:32:26.411Z",
+              "EditorCaption": ""
             }
           ]
         }
